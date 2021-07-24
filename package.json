@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Curso do Youtube",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanscar/node.js.git"
+  },
+  "author": "Luan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanscar/node.js/issues"
+  },
+  "homepage": "https://github.com/luanscar/node.js#readme"
+}
